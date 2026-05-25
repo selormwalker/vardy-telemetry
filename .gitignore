@@ -1,0 +1,12 @@
+# Nim
+nimcache/
+*.exe
+*.o
+*.obj
+*.lib
+*.dll
+*.a
+
+# Project specific
+vardy_telemetry
+bin/
